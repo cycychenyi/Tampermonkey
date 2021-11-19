@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         阮一峰科技爱好者周刊图片缩小
 // @namespace    https://github.com/cycychenyi
-// @version      0.1
+// @version      0.2
 // @description  打开页面时，默认把图片都缩小到 20%，方便快速浏览。点击恢复原来大小，再点击缩小到 20%。
 // @author       cycychenyi
-// @match        https://www.ruanyifeng.com/blog/*/weekly-issue-*.html
+// @match        http*://www.ruanyifeng.com/blog/*/weekly-issue-*.html
 // @grant        none
 // ==/UserScript==
 
