@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trello GitHub issue 标签黑色字体
-// @namespace    https://github.com/cycychenyi
+// @namespace    https://greasyfork.org/zh-CN/users/459661-cycychenyi
 // @version      0.1
 // @description  Tello GitHub Power-Up issue 标签默认白色字体，我使用浅色标签居多，会导致看不清标签上的字，故设置为黑色字体。
 // @author       cycychenyi
