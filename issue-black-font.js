@@ -7,7 +7,7 @@
 // @match        http*://github.trello.services/issues.html*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
-// @require      https://releases.jquery.com/git/jquery-git.min.js
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @resource     waitForKeyElements https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
 // ==/UserScript==
 
